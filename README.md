@@ -1,17 +1,6 @@
 # React online marathon
 
-## Installation:
-
-``` 
-npm install
-```
-
-## Usage:
-``` 
-npm start 
-```
-
-## Task:
+## The tasks of the topic JSX:
 Change file *./src/components/info/info.js*.
 
 Function `Info` must return JSX `div` element with:
